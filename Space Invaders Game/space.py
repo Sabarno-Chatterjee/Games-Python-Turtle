@@ -55,7 +55,7 @@ playerspeed = 15
 
 # Choose a number of enemies
 number_of_enemies = 10
-# Creat an empty list of enemies
+# Create an empty list of enemies
 enemies = []
 
 # Add enemies to the list
@@ -74,7 +74,7 @@ for enemy in enemies:
 
 enemyspeed = 5
 
-# Creat the player's bullet
+# Create the player's bullet
 bullet = turtle.Turtle()
 bullet.color("yellow")
 bullet.shape("triangle")
